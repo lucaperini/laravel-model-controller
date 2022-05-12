@@ -21,7 +21,7 @@
     </main>
 
     @include('partials.footer')
-    @include('partials.social')
+
 
     @yield('footer-scripts')
 </body>
