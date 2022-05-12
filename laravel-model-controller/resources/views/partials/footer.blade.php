@@ -1,6 +1,6 @@
 <footer>
     <nav class="navbar navbar-light bg-light">
-        <div class="container-fluid">
+        <div class="container">
             <span class="navbar-text">
                 <p>@2022 Made with &hearts; and Laravel</p>
             </span>
